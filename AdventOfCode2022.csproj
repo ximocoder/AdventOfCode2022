@@ -25,4 +25,10 @@
     <Resource Include="Days\Day1Input.txt" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Days\Day2input.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
